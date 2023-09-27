@@ -15,4 +15,4 @@ Dejaremos un tiempo al principio de clase para que todo el mundo pueda resolver 
 
 ### Diseño esperado:
 
-[!](https://oscarm.tinytake.com/msc/ODczODExMl8yMjE0MTM4MA)
+![skills](https://github.com/omiras/skills-progress/assets/3286458/09be41bb-6c7c-47fd-b61a-6529f8a48783)
